@@ -68,4 +68,4 @@ Dúvidas sem solução: [Como pedir isenção de IPVA?]
 - Não substitui os canais oficiais.
 
 ## Vídeo técnico
-[LINK DO YOUTUBE – não listado]
+[[LINK DO YOUTUBE – não listado](https://youtu.be/TXI4Y6tM_NI)]
