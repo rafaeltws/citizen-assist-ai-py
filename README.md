@@ -49,18 +49,17 @@ nenhuma
 gov.br/saude, gov.br/inss, gov.br/mds, gov.br/mdh, gov.br/antt, consumidor.gov.br, gov.br e Lei 10.741/2003 (Estatuto da Pessoa Idosa, planalto.gov.br).
 
 ## Teste com usuários
-> Preencher depois de testar com 3+ pessoas de fora da equipe (10+ atendimentos). Não registrar nomes.
 
 | Indicador | Resultado |
 |-----------|-----------|
-Atendimentos registrados:    12
-Resposta encontrada (%):     91.7
-Taxa de acerto: ajudou (%):  91.7
-Tempo médio para encontrar:  17.0 s
-Tentativas por atendimento:  1.2
-Facilidade de uso (1 a 5):   4.3
-Dúvidas sem solução:
-  - Como pedir isenção de IPVA?
+| Atendimentos registrados | 12 |
+| Resposta encontrada (%) | 91.7 |
+| Taxa de acerto: ajudou (%) | 91.7 |
+| Tempo médio para encontrar | 17.0 s |
+| Tentativas por atendimento | 1.2 |
+| Facilidade de uso (1 a 5) | 4.3  |
+
+Dúvidas sem solução: [Como pedir isenção de IPVA?]
 
 ## Limitações
 - Só responde o que está na base (16 orientações); não interpreta frases muito diferentes das palavras-chave.
