@@ -1,0 +1,29 @@
+ROTEIRO - VÍDEO PITCH (até 3 min, ~2:40) - gravar com a PRÓPRIA VOZ (narração com IA não é permitida)
+
+[0:00-0:20] O problema
+"Muitos idosos perdem tempo para descobrir onde tirar o Cartão SUS, como pedir aposentadoria ou a quem recorrer
+num golpe. A informação existe, mas está espalhada, difícil de entender e misturada com sites que parecem oficiais e não são."
+
+[0:20-0:40] A solução
+"Apresentamos o Citizen Assist AI, um assistente digital de orientação ao cidadão. Ele responde dúvidas em linguagem simples,
+sempre com a fonte oficial e a data em que a informação foi conferida, e sem coletar nenhum dado pessoal."
+
+[0:40-1:50] Demonstração (tela do terminal)
+1. Pergunta: "Como faço o cartão do SUS?" -> mostrar confiança ALTA, documentos, onde ir, fonte e aviso.
+2. Pergunta fora da base -> "Não encontrei" e sugestão de categorias.
+3. Digitar "meu cpf é 123.456.789-00" -> assistente recusa e não registra.
+4. Navegar por categorias (Saúde -> uma orientação).
+5. Mostrar indicadores (resposta encontrada, taxa de acerto, tempo médio).
+
+[1:50-2:20] Como funciona (rápido)
+"A inteligência é baseada em regras: a pergunta é normalizada e cada orientação ganha pontos por palavra-chave e por palavra no título.
+A maior pontuação define a resposta e o nível de confiança. Tudo é feito com três classes em Python e uma base de conhecimento em JSON."
+
+[2:20-2:40] Impacto e tema da GS (CitizenTech)
+"O Citizen Assist AI ajuda o cidadão a acessar direitos com segurança e confiança, reduzindo golpes e desinformação.
+Relaciona-se aos ODS 3, 10 e 16."
+
+[2:40-2:50] Fechamento
+"Citizen Assist AI: informação verificada, simples e segura para quem mais precisa."
+
+CHECKLIST: YouTube NÃO LISTADO | máx. 3 min | voz própria | proposta clara com o tema da GS
